@@ -22,4 +22,5 @@ Updation: The Third parameter of a fundamental for loop defines the incrementati
 Body: It is termed as the collection of statements i.e. variables, functions, etc. These are executed automatically after a successful iteration that executes with every successful iteration cycle until the condition is not satisfied. The code statements within the for loop could be anything from printing a simple name to executing complex algorithms or functional statements.
 
 Working of For Loop in C
+
 ![image](https://user-images.githubusercontent.com/125429608/234454797-04c2c73f-232f-4e63-b467-3f98f342642e.png)
